@@ -1,0 +1,28 @@
+.btn {
+    background-color: white;
+    border-radius: 15%;
+    color: black;
+    width: 107px;
+    height: 50px;
+    flex-wrap: wrap;
+    font-weight: bolder;
+    border: 1.5px solid black;
+    cursor: pointer;
+    opacity: 0.90;
+    transition: 0.5s;
+    text-decoration: none; /* Remover sublinhado padrão do link */
+    margin-right: 15px;
+    font-size: 90%;
+    text-align: center;
+ 
+    
+  }
+  
+  .linkText {
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+  }
+
+  

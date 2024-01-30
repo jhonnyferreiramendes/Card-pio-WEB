@@ -1,0 +1,42 @@
+.bodyContainerNot{
+    display: none;  
+}
+
+.openModal{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(to right, #707370, #403e43); /* Gradient de dourado para laranja da esquerda para a direita */
+    border-radius: 10%;
+}
+.openModal h2{
+    position: relative;
+    left: 200px;
+    top: 5px
+}
+
+.openModal input{
+    position: relative;
+    background-color:  aliceblue;
+    color: black;
+    font-weight: bolder;
+    width: 300px;
+    margin-top: 20px;
+    
+}
+
+.openModal label{
+   font-weight: bolder;
+   font-size: 120%;
+}
+
+
+.modalCodigo{
+    margin-left: 50px;
+}
+
+.modal-footer{
+    position: relative;
+    left: 130px;
+    top: 40px
+}
+

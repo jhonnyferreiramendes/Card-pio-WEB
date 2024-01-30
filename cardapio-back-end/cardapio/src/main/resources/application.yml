@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    database: POSTGRESQL
+    hibernate:
+      ddl-auto: update
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/food
+    username: postgres
+    password: 12021996
+    driverClas\sName: org.postgresql.Driver
+server:
+  port: 8080

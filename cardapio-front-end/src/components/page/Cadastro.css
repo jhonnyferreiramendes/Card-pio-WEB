@@ -1,0 +1,52 @@
+.corpo{
+
+    margin-top: -300px;
+    margin-left: -3%;
+
+
+}
+.CadastroContainer {
+    position: absolute;
+    background: linear-gradient(to right, #707370, #403e43); /* Gradient de dourado para laranja da esquerda para a direita */
+    max-width: 80%; /* Ajuste a largura conforme necessário, mas não ultrapasse 80% da tela */
+    height: 400px;
+    width: 800px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 99%;
+    transition: 3s;
+    border-radius: 10%;
+    color: black;
+    margin-top: 40px;
+    
+}
+
+.CadastroContainer label {
+    position: relative;
+    left: 5%;
+    top: 10px;
+    font-weight: bolder;
+    font-size: 18px;
+    color: white;
+}
+
+.CadastroContainer input {
+    width: 100%; /* Agora, o input terá 100% da largura do contêiner */
+    padding: 8px; /* Adicionando algum preenchimento para melhor aparência */
+    margin-top: 10px;
+    box-sizing: border-box; /* Isso inclui o preenchimento na largura total */
+    background-color: aliceblue;
+    color: black;
+    font-weight: bolder;
+
+}
+
+.btnCards{
+    transform: translate(30%, 50%);
+    display: flex;
+
+}
+
+

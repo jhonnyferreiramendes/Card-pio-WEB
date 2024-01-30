@@ -1,0 +1,28 @@
+.btnGet{
+    position: relative;
+    margin-top: 8%;
+    margin-left: 18%;
+}
+
+
+.resultContainer{
+    position: relative;
+    flex-wrap: wrap;
+    left: 60px;
+    display: flex;
+    margin-top: 10px ;
+}
+
+.codigoNot{
+    position: relative;
+    top: 100px;
+    left: -27%;
+}
+
+.resultContainer h2{
+    position: relative;
+    left: 80px;
+}
+
+
+
