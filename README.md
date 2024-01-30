@@ -16,8 +16,4 @@ Banco de Dados:
 - **Sistema Gerenciador:** PostgreSQL
 - Para a base de dados foi utilizado o SGBD PostgreSQL, assegurando eficiência e segurança no armazenamento e recuperação de dados de maneira eficaz.
 
-![Imagem1](.C:\Users\55839\Documents\Aplicações-web\Cardapio\imagens | width=100)
-![Imagem2](./imagens/02.png | width=100)
-![Imagem3](./imagens/03.png | width=100)
-![Imagem4](./imagens/04.png | width=100)
-![Imagem5](./imagens/05.png | width=100)
+
